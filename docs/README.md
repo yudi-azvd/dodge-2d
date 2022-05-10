@@ -8,6 +8,16 @@
  mob do grupo "mobs"
 
 
+## Deploy
+
+Itch.io:
+
+https://bitbra.in/2020/08/01/publish-godot-game-to-itchio.html
+
+HTML5:
+
+https://github.com/bitbrain/corg-e/blob/main/.github/workflows/release-to-itchio.yml
+
 
 ## Servidor local com Python
 
