@@ -10,3 +10,5 @@ export_presets.cfg
 .mono/
 data_*/
 release/*
+
+mono_crash.*.json
