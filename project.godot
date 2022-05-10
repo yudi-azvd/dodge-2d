@@ -23,6 +23,7 @@ _global_script_class_icons={
 config/name="Dodge"
 config/description="First 2D Game"
 run/main_scene="res://Main.tscn"
+config/icon="res://art/playerGrey_walk2.png"
 
 [display]
 
