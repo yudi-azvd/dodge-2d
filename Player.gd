@@ -44,7 +44,7 @@ func _process(dt):
 	position.y = clamp(position.y, 0, screen_size.y)
 
 
-func _on_Player_body_entered(body):
+func _on_Player_body_entered(_body):
 	hide()
 	emit_signal("hit")
 	$CollisionShape2D.set_deferred("disabled", true)
