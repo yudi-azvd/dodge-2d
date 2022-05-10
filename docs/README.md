@@ -24,6 +24,6 @@ https://github.com/bitbrain/corg-e/blob/main/.github/workflows/release-to-itchio
 Pra rodar um servidor com a build pra web
 
 ```
-python3 -m http.server --directory release
+python3 -m http.server --directory builds/web/
 ```
 
